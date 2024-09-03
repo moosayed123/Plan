@@ -1,7 +1,7 @@
 
 ## TEAM 1 
 ### Automated attendence system
-#### Project Overview:
+Project Overview:
 A complete school system consists of three main steps:
 Attendance and Access Control at the School Gate:
 The system identifies attendance at the school gate. When a recognized person is detected, their attendance is recorded on our platform, and the gate is opened for them.
@@ -11,6 +11,7 @@ This step involves helping students with their questions about the school withou
 Substitute Class Management System:
 Mr. Ahmed Fouad, who specializes in scheduling, uses this system to manage substitute classes. Teachers are notified when they have a substitute class scheduled, and they are also reminded of their sessions to avoid delays.
 Additionally, the system rings the school bell for each class and break, eliminating the need for a supervisor to do so manually.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Sprint 1: Camera System (2 weeks)
 Goal: Develop a system to identify and manage attendance at the school gate using AI and embedded systems.
@@ -21,6 +22,7 @@ Task 3: Create AI module (3 days)
 Task 4: Develop the embedded system and integrate it with Raspberry Pi (3 days)
 Task 5: Design UI/UX (2 days)
 Deployment: End of Sprint 1
+
 ------------------------------------------------------------------------------------------------------------------------------
 Sprint 2: Chatbot System (13 days)
 Goal: Develop an AI-powered chatbot for assisting students with their questions.
@@ -30,6 +32,7 @@ Task 2: Collect data (questions & answers) (3 days)
 Task 3: Develop the AI chatbot module (7 days)
 Task 4: Test the module (1 day)
 Deployment: End of Sprint 2
+
 ------------------------------------------------------------------------------------------------------------------------------
 Sprint 3: UI/UX for Substitute Class Management System (15 days)
 Goal: Develop a system to manage substitute classes, notify teachers, and automate school bell ringing.
